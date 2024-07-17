@@ -1,5 +1,3 @@
-
-
 ## Feature
 - A phone app that enables employees to take photo photo of their receipts for their expenses and automatically submit it
 - The app uses GPT vision to "read" the receipt and extract all details required, thus saving employees time
