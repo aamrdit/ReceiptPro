@@ -1,1 +1,1 @@
-## ReceiptPro2
+## ReceiptPro
