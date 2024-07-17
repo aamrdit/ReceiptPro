@@ -34,6 +34,5 @@ The workflow Will be powered by three tools power, automate, build, ship, and op
 
 
 
-![image](https://github.com/user-attachments/assets/454ea443-2d76-47ca-87e4-e52458998053)
 
 
