@@ -12,29 +12,25 @@
 
 The workflow Will be powered by three tools power, automate, build, ship, and open AI and they all serve different
 
-![image](https://github.com/user-attachments/assets/8d073838-2b67-4bbc-8f7e-741b63737cfa)
 
+## Step 1
 
 
 ![image](https://github.com/user-attachments/assets/a62b90d7-ad0f-4f4a-a1ac-d93dd9278b8e)
 
+## Step 1
 
 
 ![image](https://github.com/user-attachments/assets/b6007a01-5f15-4b43-983d-40f0179c68bb)
 
+## Step 1
 
 
 ![image](https://github.com/user-attachments/assets/851d7bf2-a011-4ea8-b3f7-5f6bb53ee906)
 
-
-
-
+## Step 1
 
 ![image](https://github.com/user-attachments/assets/999709cc-7c26-409b-bf2a-ad776dea36bc)
-
-
-
-
 
 
 
