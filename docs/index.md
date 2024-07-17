@@ -1,4 +1,4 @@
-# Receipt Scanner App
+
 
 ## Feature
 - A phone app that enables employees to take photo photo of their receipts for their expenses and automatically submit it
