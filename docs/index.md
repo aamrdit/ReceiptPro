@@ -33,4 +33,44 @@ The workflow Will be powered by three tools power, automate, build, ship, and op
 ![image](https://github.com/user-attachments/assets/999709cc-7c26-409b-bf2a-ad776dea36bc)
 
 
+## Power Automate Flows
+
+![image](https://github.com/user-attachments/assets/d8eced5f-3863-4b61-a0ab-752c8938a512)
+
+
+![image](https://github.com/user-attachments/assets/9534312d-417c-4485-86aa-53f82e529bd9)
+
+
+![image](https://github.com/user-attachments/assets/d71f3ec4-e422-4793-b29c-5a48a16a44d4)
+
+
+![image](https://github.com/user-attachments/assets/82fec5c7-4f9f-464b-bf23-a98de7542ce3)
+
+
+![image](https://github.com/user-attachments/assets/70327ee6-6ba6-4a5f-88e7-437a397bb715)
+
+
+![image](https://github.com/user-attachments/assets/c8be15c3-475a-4c43-a68e-4e163803566a)
+
+
+## BuildShip Flow
+
+![image](https://github.com/user-attachments/assets/72b6d047-e07e-4e87-9eda-7a0a243186ec)
+
+
+![image](https://github.com/user-attachments/assets/4d864813-1211-4f56-9b8c-dd38db46d9d7)
+
+
+## AirTable
+
+![image](https://github.com/user-attachments/assets/ed25d244-a827-4a44-a314-bb82c694d612)
+
+
+
+
+
+
+
+
+
 
