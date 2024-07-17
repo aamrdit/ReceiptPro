@@ -1,12 +1,4 @@
-## Sherlock
 
-[webpage](https://ldynia.github.io/flask-sherlock/)
-
-Sherlock is the best movie recommendation engine ever created. Isn't it Dr. [Jekyll](https://jekyllrb.com/)? More advanced references please look up how [Jekyll docs](https://github.com/jekyll/jekyll/tree/master/docs) are structured.
-
-![sherlock](https://c8.alamy.com/comp/HHCX7G/sherlock-holmes-with-computer-laptop-silhouette-sitting-in-rocking-HHCX7G.jpg)
-
-## Multiverse
 
 ## Feature
 - A phone app that enables employees to take photo photo of their receipts for their expenses and automatically submit it
@@ -21,3 +13,27 @@ Sherlock is the best movie recommendation engine ever created. Isn't it Dr. [Jek
 The workflow Will be powered by three tools power, automate, build, ship, and open AI and they all serve different
 
 ![image](https://github.com/user-attachments/assets/8d073838-2b67-4bbc-8f7e-741b63737cfa)
+
+
+
+![image](https://github.com/user-attachments/assets/a62b90d7-ad0f-4f4a-a1ac-d93dd9278b8e)
+
+
+
+![image](https://github.com/user-attachments/assets/b6007a01-5f15-4b43-983d-40f0179c68bb)
+
+
+
+![image](https://github.com/user-attachments/assets/851d7bf2-a011-4ea8-b3f7-5f6bb53ee906)
+
+
+
+![image](https://github.com/user-attachments/assets/173030dd-dd06-4cfb-83cb-498d00ac8541)
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/454ea443-2d76-47ca-87e4-e52458998053)
+
+
