@@ -32,12 +32,20 @@ which will then call a Buildship workflow as well.
 
 ![image](https://github.com/user-attachments/assets/b6007a01-5f15-4b43-983d-40f0179c68bb)
 
-## Step 1
-
+## Step 3:
+Next, we call open AI with the photo of the receipt that was saved in Azure Data Storage.
+OpenAI will take that photo from Azure Data Storage crunch it and return the values
+that we need to populate the second page, which is the receipt date, the store name from the
+receipt, the expense type, and the expense amount.
 
 ![image](https://github.com/user-attachments/assets/851d7bf2-a011-4ea8-b3f7-5f6bb53ee906)
 
-## Step 1
+## Step 4:
+The next thing that the user will do is make any adjustments that they need to make and then click
+submit to finalize their submission.
+What happens after that is the information then goes to Power Automate first and then BuildShip, which then gets saved into a database within
+Airtable.
+
 
 ![image](https://github.com/user-attachments/assets/999709cc-7c26-409b-bf2a-ad776dea36bc)
 
