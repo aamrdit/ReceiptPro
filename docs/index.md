@@ -2,11 +2,14 @@
 
 ## Feature
 - A phone app that enables employees to take photos of their receipts for their expenses and automatically submit it
-- The app is powered by Microsoft Power Apps, Power Automate, Buildship and Open AI to serve different
-- - The app uses GPT vision to "read" the receipt and extract all details required, thus saving employees time
+- The app is powered by Microsoft Power Apps, Power Automate, Buildship, Airtable and Open AI.
+- The app uses GPT vision to "read" the receipt and extract all details required, thus saving employees time
 
 
 ![image](https://github.com/user-attachments/assets/6a53a402-e997-48ea-ae3d-5b6f6d3a7fbd)
+
+
+## ReceiptPro Demo
 
 
 ## ReceiptPro Workflow
