@@ -12,17 +12,22 @@
 ## ReceiptPro Demo
 
 
+
+
 ## ReceiptPro Workflow
 
 
-
-
-## Step 1
-
+## Step 1: 
+The first thing that happens is when a user opens their phone and submits the receipt.
+So they take a photo of the receipt, upload it to the application, and click submit.
+The next thing that happens is we have PowerApps saves the picture of a receipt to an Azure Data
+storage bucket.
 
 ![image](https://github.com/user-attachments/assets/a62b90d7-ad0f-4f4a-a1ac-d93dd9278b8e)
 
-## Step 1
+## Step 2:
+The next thing that will happen is once the user clicks submit, it will call a Power automate workflow,
+which will then call a Buildship workflow as well.
 
 
 ![image](https://github.com/user-attachments/assets/b6007a01-5f15-4b43-983d-40f0179c68bb)
