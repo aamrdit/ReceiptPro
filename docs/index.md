@@ -3,9 +3,9 @@
 ## Soho ReceiptPro
 - A phone app that enables employees to take photos of their receipts for their expenses and automatically submit it
 - The app is powered by Microsoft Power Apps, Power Automate, Buildship, Airtable and Open AI.
--- Power Apps: Power Apps allows users to build custom business applications and offers pre-build templates and custom components to accelerate development
--- Power automate is a service by Microsoft that enables the creation of automated workflow between apps and services
--- Buildship enables to create backend layer API easily and offers easy integration with LLM
+- - Power Apps: Power Apps allows users to build custom business applications and offers pre-build templates and custom components to accelerate development
+- - Power automate is a service by Microsoft that enables the creation of automated workflow between apps and services
+- - Buildship enables to create backend layer API easily and offers easy integration with LLM
 - The app uses GPT vision to "read" the receipt and extract all details required, thus saving employees time
 
 
