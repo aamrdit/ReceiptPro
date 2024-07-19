@@ -1,7 +1,7 @@
 
 
 ## Soho ReceiptPro
-- A phone app that enables employees to take photos of their receipts for their expenses and automatically submit it
+- A phone app that enables employees to take photos of their receipts for their expenses and automatically submit it to data source
 - The app is powered by Microsoft Power Apps, Power Automate, Buildship, Airtable and Open AI.
 - The app uses GPT vision to "read" the receipt and extract all details required, thus saving employees time
 
